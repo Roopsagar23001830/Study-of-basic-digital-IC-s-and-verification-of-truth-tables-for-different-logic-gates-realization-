@@ -76,6 +76,10 @@ nor(ynor,a,b);
 xnor(yxnor,a,b);
 endmodule
 
+code:
+
+![Screenshot 2023-12-25 140815](https://github.com/Roopsagar23001830/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145972515/b4344542-761c-4b63-802d-b8b646a416b3)
+
 Truthtable : 
 
 ![265178152-92db09b6-b8ce-4fd4-84ab-30c497d397c0](https://github.com/Roopsagar23001830/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145972515/782d679a-f566-4cd5-9759-1e563a407e46)
